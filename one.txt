@@ -1,6 +1,11 @@
 hello
 hii
 how are you
+<<<<<<< HEAD
 hello
 i am yedukondalu
+=======
+yedukonalu
+
+>>>>>>> 5aefbc0b5c6362273d8e9bbfb6be10186d7e6c13
 
